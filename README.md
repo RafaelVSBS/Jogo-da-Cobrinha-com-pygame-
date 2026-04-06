@@ -18,8 +18,7 @@ Antes de começar, você precisa ter instalado:
 Se estiver usando Git:
 
 ```bash
-git clone https://github.com/seu-usuario/jogo-cobrinha.git
-cd jogo-cobrinha
+git clone https://github.com/RafaelVSBS/Jogo-da-Cobrinha-com-pygame-.git
 ```
 
 Ou simplesmente baixe os arquivos e extraia em uma pasta.
@@ -41,12 +40,7 @@ pip install pygame
 Dentro da pasta do projeto, execute:
 
 ```bash
-python nome_do_arquivo.py
-```
-
-> Substitua `nome_do_arquivo.py` pelo nome do seu arquivo (ex: `cobra.py`)
-
----
+python jogo.py
 
 ## 🎮 Controles
 
